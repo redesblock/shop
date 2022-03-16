@@ -1,2 +1,2 @@
 # shop
-Storage HOP Decentralized Storage
+HOP Decentralized Storage
